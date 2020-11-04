@@ -1,1 +1,1 @@
-![](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)
+![](https://github.com/arul21/arul21/blob/master/img/dino.gif)
