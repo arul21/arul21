@@ -1,7 +1,7 @@
 ![](https://github.com/arul21/arul21/blob/master/img/dino.gif)
 ![](https://komarev.com/ghpvc/?username=arul21)
 [![@djaduls's Holopin board](https://holopin.io/api/user/board?user=djaduls)](https://holopin.io/@djaduls)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arul21&count_private=true&show_icons=true&theme=chartreuse-dark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arul21&count_private=true&show_icons=true&theme=chartreuse-dark) -->
 
 
 
